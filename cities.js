@@ -1,20 +1,10 @@
 const newHampshireCities = [
-  "Harrisville", "Haverhill", "Hebron", "Henniker", "Hillsborough",
-  "Hinsdale", "Holderness", "Hollis", "Hooksett", "Hudson",
-  "Intervale", "Jackson", "Jaffrey", "Keene", "Kingston",
-  "Laconia", "Lancaster", "Lebanon", "Lee", "Lincoln",
-  "Lisbon", "Litchfield", "Littleton", "Londonderry", "Loudon",
-  "Lyme", "Lyndeborough", "Madbury", "Madison", "Manchester",
-  "Marlborough", "Marlow", "Melvin Village", "Meredith", "Meriden",
-  "Merrimack", "Milford", "Milton", "Milton Mills", "Mont Vernon",
-  "Moultonborough", "Nashua", "New Boston", "New Castle", "New Durham",
-  "New Hampton", "New Ipswich", "New London", "Newbury", "Newfields",
-  "Newmarket", "Newport", "Newton", "North Conway", "North Hampton",
-  "North Haverhill", "North Salem", "North Sutton", "North Walpole", "North Woodstock",
-  "Northwood", "Nottingham", "Orford", "Pelham", "Peterborough",
-  "Pittsfield", "Plainfield", "Plaistow", "Plymouth", "Portsmouth",
-  "Raymond", "Rindge", "Rochester", "Rollinsford", "Rye",
-  "Salem", "Salisbury", "Sanbornton", "Sanbornville", "Sandown",
+  "Seabrook", "Somersworth", "Spofford", "Springfield", "Strafford",
+  "Stratham", "Sugar Hill", "Sullivan", "Sunapee", "Suncook",
+  "Swanzey", "Tamworth", "Temple", "Tilton", "Walpole",
+  "Warner", "Waterville Valley", "Weare", "West Chesterfield", "West Lebanon",
+  "Westmoreland", "Wilmot", "Wilton", "Winchester", "Windham",
+  "Wolfeboro", "Wolfeboro Falls", "Woodsville",
 ];
 
 const BATCH_SIZE = 5;
